@@ -1,0 +1,74 @@
+{
+"first_name":"oisin",
+"last_name":"aeonn",
+"age":20,
+"enjoyment":true
+}
+
+{"first_name":"oisin","last_name":"aeonn","age":20,"enjoyment":true} 
+minified version
+
+
+{
+"subjects": 
+[
+{
+    "Course":"Implement Cloud Infrustructure with Code", 
+    "Id":"INTE5052C_ICTCLD505", 
+    "time":"6 months"
+},
+{
+    "Course":"Manage Network Security", 
+    "Id":"INTE5051C_ICTNWK546", 
+    "time":"6 months"
+},
+{
+    "Course":"Apply Intermediate Object-Oriented Language Skills", 
+    "Id":"COSC7394C_ICTPRG549", 
+    "time":"6 months"
+}
+]
+}
+
+{
+    "subjects": 
+    [
+    {
+        "Course":"Implement Cloud Infrustructure with Code", 
+        "Id":123, 
+        "pass":true,
+    
+        "Course":"Manage Network Security", 
+        "Id":124, 
+        "pass":false,
+
+        "Course":"Apply Intermediate Object-Oriented Language Skills", 
+        "Id":125, 
+        "pass":true
+}
+    ]
+    }
+
+
+
+
+    {
+    "Course":"Manage Network Security", 
+    "Id":"INTE5051C_ICTNWK546", 
+    "time":"6 months"
+}
+
+{
+    "Course":"Apply Intermediate Object-Oriented Language Skills", 
+    "Id":"COSC7394C_ICTPRG549", 
+    "time":"6 months"
+}
+
+
+
+
+
+
+
+
+
